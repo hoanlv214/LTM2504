@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\laiva\source\repos\BTVN2504\Client\Client.cpp(41,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\laiva\source\repos\BTVN2504\Client\Client.cpp(43,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\laiva\source\repos\BTVN2504\x64\Debug\Client.exe
